@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from themes.themewild.com/cryptu/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Jan 2022 09:47:37 GMT -->
+<!-- Mirrored from themes.themewild.com/cryptu/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Jan 2022 09:47:22 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +29,9 @@
 </head>
 <body>
 
-
+<div class="preloader">
+<div class="loader"></div>
+</div>
 
 
 <div id="wrapper" class="overflow-hidden">
@@ -39,19 +41,43 @@
 <div class="container">
 <div class="header-area d-flex flex-wrap justify-content-between">
 <div class="logo">
-<a href="/"><img src="assets/img/logo.png" alt="" width="216" height="39" /></a>
+<a href="index-2.html"><img src="assets/img/logo.png" alt="" width="216" height="39" /></a>
 </div>
 <div class="menu-area d-flex flex-wrap">
-    <nav class="main-menu">
-    <ul class="nav">
-    <li><a href="/">Home</a>
-    
-    </li>
-    <li><a href="about">About</a></li>
-    <li><a href="blog">Blog</a> </li>
-    <li class="current-menu-item"><a href="contact">Contact</a></li>
-    </ul>
-    </nav>
+<nav class="main-menu">
+<ul class="nav">
+<li class="current-menu-item menu-item-has-children"><a href="index-2.html">Home</a>
+<ul>
+<li><a href="index-2.html">Home One</a></li>
+<li><a href="index-3.html">Home Two</a></li>
+<li><a href="index-4.html">Home Three</a></li>
+</ul>
+</li>
+<li><a href="about.html">About</a></li>
+<li><a href="token-sale.html">Token Sale</a></li>
+<li class="menu-item-has-children"><a href="#">Pages</a>
+<ul>
+<li><a href="about.html">About Us</a></li>
+<li><a href="team.html">Team Members</a></li>
+<li><a href="token-sale.html">Token Sale</a></li>
+<li><a href="faq.html">Faq</a></li>
+<li><a href="road-map.html">Road Map</a></li>
+<li><a href="404.html">404 Error</a></li>
+<li><a href="term-condition.html">Terms & Conditions</a></li>
+<li><a href="privacy-policy.html">Privacy Policy</a></li>
+</ul>
+</li>
+<li><a href="road-map.html">Road Map</a></li>
+<li class="menu-item-has-children"><a href="#">Blog</a>
+<ul>
+<li><a href="blog-1.html">Blog One</a></li>
+<li><a href="blog-2.html">Blog Two</a></li>
+<li><a href="blog-single.html">Blog single</a></li>
+ </ul>
+</li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
 <div class="header-right">
 <div class="device-btn"><a href="contact.html">Get Started</a></div>
 </div>
@@ -65,76 +91,25 @@
 <div class="container">
 <div class="row banner-content-area justify-content-center">
 <div class="col-12 col-md-6  text-center wow fadeInUp" data-wow-duration="0.9s" data-wow-delay=".5s">
-<h1 class="text-white pb-3">Contact Us</h1>
-<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+<h1 class="text-white pb-3">404 Error</h1>
+<p>It is a long established fact that a reader will be distracted by the readable content of a
+page when looking at its layout.</p>
 </div>
 </div>
 </div>
 </div>
 
 
-<div class="contact-container pt-40">
-<div class="contact-content">
-<div class="container">
-<div class="row justify-content-between mb-2 pt-70 pb-90 mb-pt-20 mb-pb-30 contact-content-area">
-<div class="col-12 col-md-5 contact-info wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-<div class="contact-us">
-<h3>Contact us</h3>
-<h2>Get In Touch</h2>
-<p>Curabitur dictum id neque sit amet aliquam. Integer vitae nibh quis sapien consequat condimentum.</p>
-<ul class="contact-social">
-<li>
-<div class="social-row">
-<a href="#"><span><i class="far fa-phone"></i></span>
-<p>(+1) 123 456 7894</p></a>
+<div class="error-container">
+<div class="container pt-110 pb-80 mb-pt-60 mb-pb-25">
+<div class="row">
+<div class="col-lg-6 mx-auto">
+<img src="assets/img/error.svg" class="w-100" alt="">
+<div class="error-content">
+<h2>Oppose Page Not Found!</h2>
+<p class="error-text">This page not found you looking for may be not exist or removed.</p>
+<p class="my-5"><a href="index-2.html" class="error-btn">Back To Home</a></p>
 </div>
-</li>
-<li>
-<div class="social-row">
-    <a href="#"><span><i class="far fa-envelope"></i></span>
-        <p>bitinfo@mail.com</p></a>
-</div>
-</li>
-<li>
-<div class="social-row">
-<span><a href="#"><i class="far fa-map-marker-alt"></i></a></span>
-<p>110092 L Acres Road, <br> Lucknow, India</p>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-12 col-md-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-<form method="post" action="https://themes.themewild.com/cryptu/assets/php/contact.php" id="contact-form">
-<div class="d-flex flex-wrap form-col">
-<div class="form-group">
-<input class="form-control" type="text" name="name" placeholder="Your name" required />
-<span class="alert-error"></span>
-</div>
-<div class="form-group">
-<input class="form-control" type="email" name="email" placeholder="Your email" required />
-<span class="alert-error"></span>
-</div>
-</div>
-<div class="form-group">
-<input class="form-control" type="text" name="subject" placeholder="Subject" required />
-<span class="alert-error"></span>
-</div>
-<div class="form-group">
-<textarea class="form-control" name="message" rows="7" cols="7" placeholder="Your message here" required></textarea>
-<span class="alert-error"></span>
-</div>
-<div class="submit-col">
-<button type="submit">Send Message</button>
-</div>
-<div class="col-md-12 my-2">
-<div class="form-messege text-success fw-bold"></div>
-</div>
-</form>
-</div>
-</div>
-<div class="g-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96708.34194156103!2d-74.03927096447748!3d40.759040329405195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a01c8df6fb3cb8!2sSolomon%20R.%20Guggenheim%20Museum!5e0!3m2!1sen!2sbd!4v1619410634508!5m2!1sen!2sbd" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 </div>
 </div>
@@ -164,14 +139,15 @@
 <div class="footer-logo">
 <img src="assets/img/logo.png" alt="" />
 </div>
-<p>Fusce venenatis massa nec nibh euismod, nec lobortis enim aliquam. Aenean are pellentesque efficitur nisi a blandit.</p>
+<p>Fusce venenatis massa nec nibh euismod, nec lobortis enim aliquam. Aenean are
+pellentesque efficitur nisi a blandit.</p>
 <ul class=" d-flex flex-wrap social-link">
 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
 <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-</ul>
+ </ul>
 </div>
 </div>
 <div class="col-12 col-md-6 col-lg-2 footer-col link-hover wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
@@ -181,7 +157,7 @@
 <li><a href="#">Team Members</a></li>
 <li><a href="#">Our Services</a></li>
 <li><a href="#">Privacy Policy</a></li>
- <li><a href="#">Terms & Conditions</a></li>
+<li><a href="#">Terms & Conditions</a></li>
 </ul>
 </div>
 <div class="col-12 col-md-6 col-lg-2 footer-col link-hover wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
@@ -200,19 +176,21 @@
 <li>
 <div class="foo-social">
 <span><a href="#"><i class="far fa-map-marker-alt"></i></a></span>
-<p>110092 L Acres Road, <br> Lucknow, India</p>
+<p>24103 Loving Acres Road, <br> New York, USA</p>
 </div>
 </li>
 <li>
 <div class="foo-social">
-    <a href="#"><span><i class="far fa-envelope"></i></span>
-        <p>bitinfo@mail.com</p></a>
+<a href="#"><span><i class="far fa-envelope"></i></span>
+<p><span class="__cf_email__" data-cfemail="533a3d353c13362b323e233f367d303c3e">[email&#160;protected]</span></p>
+</a>
 </div>
 </li>
 <li>
 <div class="foo-social">
 <a href="#"><span><i class="far fa-phone"></i></span>
-<p>(+1) 123 456 7894</p></a>
+<p>(+1) 123 456 7894</p>
+</a>
 </div>
 </li>
 </ul>
@@ -221,7 +199,8 @@
 <div class="row">
 <div class="col-12">
 <div class="d-flex flex-wrap justify-content-between footer-bottom-content">
-<p class="order-2 order-lg-1">&copy; Copyright 2021 <a href="#"> NS </a> All Rights Reserved.</p>
+<p class="order-2 order-lg-1">&copy; Copyright 2021 <a href="#"> CRYPTU </a> All Rights
+Reserved.</p>
 <ul class="d-flex flex-wrap order-1 order-sm-1 order-md-1 order-lg-2">
 <li><a href="#">Terms & Conditions</a></li>
 <li><a href="#">Privacy Policy</a></li>
@@ -249,10 +228,8 @@
 
 <script src="assets/js/wow.min.js"></script>
 
-<script src="assets/js/contact-form.js"></script>
-
 <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from themes.themewild.com/cryptu/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Jan 2022 09:47:40 GMT -->
+<!-- Mirrored from themes.themewild.com/cryptu/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Jan 2022 09:47:23 GMT -->
 </html>
