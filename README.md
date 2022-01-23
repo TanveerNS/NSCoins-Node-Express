@@ -3,9 +3,6 @@
 [Demo](https://node-express-nscoins.herokuapp.com/)
 
 
-![weather](https://user-images.githubusercontent.com/44171601/150654146-96b71852-1a44-4be1-a965-211f5aa42e0f.PNG)
-
-
 ### `npm start`
 
 Runs the app in the development mode.<br>
