@@ -1,0 +1,16 @@
+{
+  "name": "node-express-nscoins",
+  "version": "0.1.0",
+  "description": "A simple website built with Node, Express and Pug",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Tanveer Alam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
